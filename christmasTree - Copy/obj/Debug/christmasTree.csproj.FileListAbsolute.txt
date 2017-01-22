@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\bin\Debug\christmasTree.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\bin\Debug\christmasTree.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\bin\Debug\christmasTree.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\obj\Debug\christmasTree.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\obj\Debug\christmasTree.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\christmasTree\obj\Debug\christmasTree.pdb

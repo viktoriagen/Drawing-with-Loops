@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rectangle10x10\bin\Debug\Rectangle10x10.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rectangle10x10\bin\Debug\Rectangle10x10.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rectangle10x10\bin\Debug\Rectangle10x10.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rectangle10x10\obj\Debug\Rectangle10x10.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rectangle10x10\obj\Debug\Rectangle10x10.pdb

@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

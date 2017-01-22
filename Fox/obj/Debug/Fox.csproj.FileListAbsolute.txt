@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\bin\Debug\Fox.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\bin\Debug\Fox.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\bin\Debug\Fox.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\obj\Debug\Fox.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Fox\obj\Debug\Fox.pdb

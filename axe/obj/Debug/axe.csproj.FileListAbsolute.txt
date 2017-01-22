@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\axe\bin\Debug\axe.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\axe\bin\Debug\axe.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\axe\bin\Debug\axe.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\axe\obj\Debug\axe.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\axe\obj\Debug\axe.pdb

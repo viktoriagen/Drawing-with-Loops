@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\trianglefrom$\bin\Debug\trianglefrom$.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\trianglefrom$\bin\Debug\trianglefrom$.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\trianglefrom$\bin\Debug\trianglefrom$.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\trianglefrom$\obj\Debug\trianglefrom$.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\trianglefrom$\obj\Debug\trianglefrom$.pdb

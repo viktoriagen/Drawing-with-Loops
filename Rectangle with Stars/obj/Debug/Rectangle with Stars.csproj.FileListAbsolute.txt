@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\bin\Debug\Rectangle with Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\bin\Debug\Rectangle with Stars.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\obj\Debug\Rectangle with Stars.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\obj\Debug\Rectangle with Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\examJanuari\Rectangle with Stars\obj\Debug\Rectangle with Stars.pdb

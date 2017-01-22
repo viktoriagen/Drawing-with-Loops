@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\bin\Debug\Christmas Hat.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\bin\Debug\Christmas Hat.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\bin\Debug\Christmas Hat.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\obj\Debug\Christmas Hat.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\obj\Debug\Christmas Hat.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Christmas Hat\obj\Debug\Christmas Hat.pdb

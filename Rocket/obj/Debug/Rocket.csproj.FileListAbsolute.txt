@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Rocket\bin\Debug\Rocket.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Rocket\bin\Debug\Rocket.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Rocket\bin\Debug\Rocket.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Rocket\obj\Debug\Rocket.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Exam_practice\Rocket\obj\Debug\Rocket.pdb

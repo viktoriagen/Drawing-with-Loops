@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\6Drawing with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb
